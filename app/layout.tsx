@@ -13,8 +13,8 @@ export const metadata: Metadata = {
   description: siteConfig.description,
   icons: [
     {
-      url: '/trello.svg',
-      href: '/trello.svg',
+      url: '/icons/logo.svg',
+      href: '/icons/logo.svg',
     },
   ],
 };
